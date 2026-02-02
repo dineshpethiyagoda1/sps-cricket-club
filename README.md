@@ -1,8 +1,5 @@
-# sps-cricket-club
-Cricket Club Management System - Spring Boot + React + MySQL (Group Project)
-
 # 🏏 SPS Cricket Club Management System
-Full-stack web application for cricket club management.
+Cricket Club Management System - Spring Boot + React + MySQL (Group Project)
 
 ## 👥 Team Members
 1. HMSW Senawirathna  — 28309 - Player Management
