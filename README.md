@@ -1,7 +1,7 @@
-# 🏏 SPS Cricket Club Management System
+# SPS Cricket Club Management System
 Cricket Club Management System - Spring Boot + React + MySQL (Group Project)
 
-## 👥 Team Members
+## Team Members
 1. HMSW Senawirathna  — 28309 - Player Management
 2. BMRK Karunathilake — 28906 - Team Management
 3. RKAI C Gunaratna   — 28178 - Coach Management
@@ -11,7 +11,7 @@ Cricket Club Management System - Spring Boot + React + MySQL (Group Project)
 7. MTM Thilakarathna  — 28970 - Attendance Management
 8. Am Sandun Prabath  — 28607 - Payment Management
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Java 
