@@ -2,14 +2,14 @@
 Cricket Club Management System - Spring Boot + React + MySQL (Group Project)
 
 ## Team Members
-1. HMSW Senawirathna  — 28309 - Player Management
-2. BMRK Karunathilake — 28906 - Team Management
-3. RKAI C Gunaratna   — 28178 - Coach Management
-4. PEH Rodrigo        — 29158 - Assignment Management
-5. PRAD Pethiyagoda   — 29058 - Match Management
-6. DCK Kuruwita       — 29194 - Performance Tracking
-7. MTM Thilakarathna  — 28970 - Attendance Management
-8. Am Sandun Prabath  — 28607 - Payment Management
+1.HMSW Senawirathna — 28309 - Player Management
+2.BMRK Karunathilake — 28906 - Team Management
+3.RKAI C Gunaratna — 28178 - Match Management
+4.PEH Rodrigo — 29158 - Attendance Management
+5.PRAD Pethiyagoda — 29058 - Coach Management
+6.DCK Kuruwita — 29194 - Performance Tracking
+7.MTM Thilakarathna — 28970 - Assignment Management
+8.AM Sandun Prabath — 28607 - Payment Management
 
 ## Setup Instructions
 
